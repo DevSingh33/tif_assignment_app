@@ -15,10 +15,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-
-  # responsive_framework: ^0.2.0
+  #testing the ui in different device sizes
   device_preview: ^1.1.0
-  flutter_screenutil: ^5.7.0
   # api handling
   dio: ^5.0.1
   # service locator & for creating singletons
@@ -31,8 +29,8 @@ dependencies:
   dartz: ^0.10.1
   # checking network connectivity
   internet_connection_checker: ^1.0.0+1
+  #formatting date and time
   date_time_format: ^2.0.1
-  auto_size_text: ^3.0.0
 
 dev_dependencies:
   flutter_test:
